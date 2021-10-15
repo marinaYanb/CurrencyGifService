@@ -1,0 +1,16 @@
+server:
+  port: 8888
+
+# OpenExchangeRates
+openexchangerates:
+  url: https://openexchangerates.org/api
+  app_id: 372460fef33244c2bf69127682441e9c
+  base: RUB
+
+# Giphy
+giphy:
+  url: https://api.giphy.com/v1/gifs
+  app_id: PDN1uPOMeVL6oHbRdvtk7Fukbhz7xQ1g
+  rich: rich
+  broke: broke
+  no_changes: nothing
